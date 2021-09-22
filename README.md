@@ -8,7 +8,7 @@ Add dependency:
 <dependency>
     <groupId>io.github.kerwin612</groupId>
     <artifactId>uhcs-core</artifactId>
-    <version>${version}</version>
+    <version>0.0.3</version>
 </dependency>
 ```
 Register Strategy:
@@ -40,7 +40,7 @@ Add dependency:
 <dependency>
     <groupId>io.github.kerwin612</groupId>
     <artifactId>uhcs-spring</artifactId>
-    <version>${version}</version>
+    <version>0.0.3</version>
 </dependency>
 ```
 Register Strategy:
