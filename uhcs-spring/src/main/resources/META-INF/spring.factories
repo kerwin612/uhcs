@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  org.kerwin612.uhcs.spring.EnableUHCS.UHCSAutoConfiguration
